@@ -5,7 +5,9 @@ For more information about *Lazy Loading Pattern* please refer to the article [L
 
 Simply speaking, Lazy Loading initializes a resource only when you need it i.e it follows the philosophy *"use it when you need it"*. 
 
-C++ natively does not support Lazy pattern . Hence i thought a simple wrapper 
+C++ natively does not support Lazy pattern . Hence i wrote a simple wrapper over it.
+
+**To get started with it :**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MTYzNTY5XX0=
+eyJoaXN0b3J5IjpbLTU0NDkzNTU1OV19
 -->
