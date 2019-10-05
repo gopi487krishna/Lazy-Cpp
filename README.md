@@ -5,7 +5,7 @@ For more information about *Lazy Loading Pattern* please refer to the article [L
 
 Simply speaking, Lazy Loading initializes a resource only when you need it i.e it follows the philosophy *"use it when you need it"*. 
 
-C++ natively does not support 
+C++ natively does not support Lazy pattern . Hence i thought a simple wrapper 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzA3Njc1Nl19
+eyJoaXN0b3J5IjpbODU0MTYzNTY5XX0=
 -->
