@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+if(MSVC)
+ add_compile_options("/EHsc")
+ add_compile_options("/std:c++latest")
+ENDIF()
+add_executable(LazyEx main.cpp)
