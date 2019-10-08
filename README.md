@@ -1,4 +1,4 @@
-# Lazy-Cpp
+# Lazy-Cpp <img src="https://ci.appveyor.com/api/projects/status/1d72j81xsaa9nwrt?svg=true">
 A simple wrapper class over [std::optional](https://www.bfilipek.com/2018/05/using-optional.html) for Lazy Loading of Resources.
 
 For more information about *Lazy Loading Pattern* please refer to the article [Lazy Loading](https://en.wikipedia.org/wiki/Lazy_loading) from wikipedia.org
