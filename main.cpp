@@ -1,7 +1,7 @@
 #include "Lazy.h"
 #include <iostream>
 
-class Resource
+class Resourc
 {
   public:
   Resource(int a,int b)
